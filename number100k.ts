@@ -1,4 +1,4 @@
-//% color="#4495FB" block="Basic"
+//% color="#4495FB" block="Number 100k"
 namespace distintiva {
     let actual = 0
     let pos = 0
