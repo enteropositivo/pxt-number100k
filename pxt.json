@@ -1,7 +1,7 @@
 {
     "name": "pxt-number100k",
-    "version": "0.0.0",
-    "description": "",
+    "version": "0.0.1",
+    "description": "Displays number from 0 to 99999 with micro:bit display without scrolling, using points",
     "dependencies": {
         "core": "*",
         "radio": "*"
