@@ -4,7 +4,7 @@ namespace distintiva {
     let pos = 0
     let n = 0
     
-    //% block
+    //% block="show number 100k %num"
     //% num.min=0 num.max=99999
     export function number100k(num: number) {
         basic.clearScreen()
